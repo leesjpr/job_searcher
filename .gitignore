@@ -4,3 +4,9 @@ diff
 *.bak
 *~
 *.pyc
+
+# virtualenv
+bin
+include
+lib
+lib64
